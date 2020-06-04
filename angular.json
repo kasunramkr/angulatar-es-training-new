@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angulatar-es-training-new"
+    }
+  },
+  "defaultProject": "angulatar-es-training-new",
+  "cli": {
+    "analytics": "5e9392a3-3917-4692-b23c-a8ac66f04212"
+  }
 }
